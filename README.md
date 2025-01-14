@@ -2,6 +2,8 @@
 
 Um jogo simples e divertido onde o jogador deve adivinhar um número secreto gerado aleatoriamente.
 
+Este projeto faz parte do curso ONE (Oracle Next Education) em parceria com a Alura.
+
 ## 🚀 Tecnologias Utilizadas
 - HTML
 - CSS
@@ -22,7 +24,8 @@ git clone https://github.com/Leticia-Emily-Moraes/jogo-numero-secreto.git
 ```
 
 ## 🌟 Demonstração
-Se houver um link para acessar o jogo online, ele pode ser adicionado aqui.
+
+[Link para Web](https://leticia-emily-moraes.github.io/jogo-numero-secreto/)
 
 ## 📚 Licença
 Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
