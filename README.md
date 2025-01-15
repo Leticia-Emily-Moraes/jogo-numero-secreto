@@ -15,6 +15,10 @@ Este projeto faz parte do curso ONE (Oracle Next Education) em parceria com a Al
 3. O jogo fornecerá dicas informando se o número secreto é maior ou menor.
 4. O jogador continua tentando até acertar o número!
 
+## 🔊 Funcionalidade de Leitura de Tela
+
+O jogo possui uma funcionalidade de leitura do que está na tela. Para que essa funcionalidade funcione corretamente, o usuário precisa clicar em "Allow" quando solicitado pelo navegador.
+
 ## 🛠 Requisitos
 Para rodar o jogo, basta abrir o arquivo `index.html` em qualquer navegador moderno.
 
